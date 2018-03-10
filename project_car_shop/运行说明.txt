@@ -1,0 +1,4 @@
+npm install
+
+npm run dev
+node app.js(再开一个CMD)
